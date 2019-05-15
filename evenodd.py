@@ -4,4 +4,4 @@ if(z<0):
 elif(z%2):
     print("Odd")
 else:
-    print("even")
+    print("Even")
