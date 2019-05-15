@@ -1,5 +1,5 @@
-ch=input()
-if(ch=='a'or ch=='e'or ch=='i'or ch=='o'or ch=='u'):
+cho=input()
+if(cho=='a'or cho=='e'or cho=='i'or cho=='o'or cho=='u'):
     print("Vowel")
 elif(ch=='$'):
         print("invalid")
