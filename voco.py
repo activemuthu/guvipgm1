@@ -4,4 +4,4 @@ if(ch=='a'or ch=='e'or ch=='i'or ch=='o'or ch=='u'):
 elif(ch=='$'):
         print("invalid")
 else:
-        print("consonant")
+        print("Consonant")
