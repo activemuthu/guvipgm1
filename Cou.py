@@ -1,6 +1,6 @@
-n=int(input())
-c=0
-while(n>0):
-    n=n//10
-    c=c+1
-print(c)
+A=int(input())
+C=0
+while(A>0):
+    A=A//10
+    C=C+1
+print(C)
