@@ -1,5 +1,5 @@
 V=input()
-N=len(n)
-for s in range(0,N-1):
+n=len(V)
+for s in range(0,n-1):
     print(V[s],end=' ')
-print(V[N-1])    
+print(V[n-1])
