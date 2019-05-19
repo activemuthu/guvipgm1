@@ -7,4 +7,4 @@ for j in range(h+1,m):
     if j % c == 0:
       S= S+ 1
   if S==0:
-      print(j,end="")
+      print(j,end=" ")
